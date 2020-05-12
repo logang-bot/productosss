@@ -1,0 +1,22 @@
+{
+  "name": "productosss",
+  "version": "1.0.0",
+  "description": "sistema de seminario1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logang-bot/productosss.git"
+  },
+  "author": "logang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logang-bot/productosss/issues"
+  },
+  "homepage": "https://github.com/logang-bot/productosss#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
